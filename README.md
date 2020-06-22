@@ -17,4 +17,4 @@ q: quit
 
 If the user just hits the Enter key, it's considered a “down” command. If the user enters a number, move to that page/screen. If the number is out of range, move to the top or bottom, as appropriate. Obtains the file name from the command line when view.py is the top-level module. In addition, processes an optional, second command-line argument that represents the desired screen display size (which defaults to 25).
 
-The file 'Yankee.txt' was used with this program, it has a word count of 18.901.
+The file 'Yankee.txt' was used with this program, it has a word count of 18,901.
